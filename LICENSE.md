@@ -2,6 +2,13 @@
 The MIT License (MIT)
 
 Copyright (c) 2018 José Pereira
+Original Xamarin.iOS implementation by Greg Shackles
+https://github.com/gshackles/FloatLabeledEntry
+Original implementation by Jared Verdi
+https://github.com/jverdi/JVFloatLabeledTextField
+Original Concept by Matt D. Smith
+http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
