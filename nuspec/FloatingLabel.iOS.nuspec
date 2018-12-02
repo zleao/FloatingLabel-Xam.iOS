@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FloatingLabel-Xam.iOS</id>
+    <version>1.0.0</version>
+    <authors>zleao</authors>
+    <owners>zleao</owners>
+    <licenseUrl>https://github.com/zleao/FloatingLabel-Xam.iOS/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/zleao/FloatingLabel-Xam.iOS</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Floating Label (Material Design) for Xamarin.iOS. Supports iOS design.</description>
+    <copyright>Copyright 2018 José Pereira</copyright>
+    <tags>Xamarin iOS FloatingLabel Floating Label TextField</tags>
+  </metadata>
+  <files>
+    <file src="../src/FloatingLabel/FloatingLabel.iOS/bin/Release/FloatingLabel.iOS.dll" target="lib/Xamarin.iOS10" />
+  </files>
+</package>
